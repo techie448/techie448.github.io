@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/techie448/techie448/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  rishabhkharbanda.netlify.app
+  <a href="https://rishabhkharbanda.netlify.app">rishabhkharbanda.netlify.app</a>
 </h1>
 <p align="center">
   <a href="https://app.netlify.com/sites/rishabhkharbanda/deploys" target="_blank">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/techie448/techie448/master/src/images/demo.png)
+[![demo](https://raw.githubusercontent.com/techie448/techie448/master/src/images/demo.png)](https://rishabhkharbanda.netlify.app)
 
 **Rishabh Kharbanda**
 
