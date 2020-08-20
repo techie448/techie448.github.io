@@ -17,4 +17,4 @@ tech:
 showInProjects: true
 ---
 
-The Job Hunt is a platform which uses web scraping collects data from various Job Search platforms such as Linkedin Jobs, Indeed, Glassdoor etc, perform vigorous algorithms to filter out the best opportunities and collate them together for young professionals of Canada looking to thrive in the field of technology.
+The Job Hunt is a platform which uses web scraping to collect data from various Job Search platforms such as Linkedin Jobs, Indeed, Glassdoor etc, perform vigorous algorithms to filter out the best opportunities and collate them together for young professionals of Canada looking to thrive in the field of technology.
