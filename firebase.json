@@ -1,0 +1,61 @@
+{
+  "hosting": [{
+    "site": "rishabhk",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  },{
+  "site": "rktech",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ],
+  "rewrites": [
+    {
+      "source": "**",
+      "destination": "/index.html"
+    }
+  ]
+},
+{
+"site": "rkharbanda",
+"public": "public",
+"ignore": [
+"firebase.json",
+"**/.*",
+"**/node_modules/**"
+],
+"rewrites": [
+{
+"source": "**",
+"destination": "/index.html"
+}
+]
+},{
+      "site": "rishabhkharbanda",
+      "public": "public",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }]
+}
+

@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "rishabhkharbanda": {
+      "hosting": {
+        "rishabhk,rkharbanda,rktech": [
+          "rishabhkharbanda"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "rishabhkharbanda"
+  }
+}
