@@ -4,10 +4,10 @@ module.exports = {
     'Rishabh Kharbanda is a software engineer based in Canada who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
     'Rishabh Kharbanda, Rishabh, Kharbanda, techie448, software engineer, front-end engineer, back-end engineer, web developer, javascript, full stack developer',
-  siteUrl: 'https://github.com/techie448',
+  siteUrl: 'https://rishabhkharbanda.me/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-175795169-1',
-  googleVerification: '4MvVRXF8cIXzruAr5mPa1pCPEkva7BeElOkCSisduh0',
+  googleVerification: 'PnBBFcQoVnsBy1TK9MOXraV8TJ395iX8-BZhIh-v_LA',
   name: 'Rishabh Kharbanda',
   location: 'Canada',
   email: 'kharbanda.rishabh7@gmail.com',
