@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/techie448/techie448/master/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/techie448/techie448.github.io/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   <a href="https://rishabhkharbanda.me/">https://rishabhkharbanda.me/</a>
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-[![demo](https://raw.githubusercontent.com/techie448/techie448/master/src/images/demo.png)](https://rishabhkharbanda.me/)
+[![demo](https://raw.githubusercontent.com/techie448/techie448.github.io/master/src/images/demo.png)](https://rishabhkharbanda.me/)
 
 **Rishabh Kharbanda**
 
@@ -39,6 +39,7 @@ _Frontend Project using Public API_
   - SASS with CSS Grid and Flexbox for styling.
   - Github, Github Pages, Firebase Hosting for Deployment.
 - URL : [https://coronavirus-dash.web.app/](https://coronavirus-dash.web.app/)
+![covid](https://github.com/techie448/techie448.github.io/blob/master/content/featured/COVID-19%20Dashboard/covid.png)
 
 [**The Job Hunt**](https://thejobhunt.web.app/) **— Angular/Firebase Web Application**
 
@@ -52,6 +53,7 @@ _Full Stack Project_
   - Node, Cheerios for web scraping, data modeling and backend services.
   - CRON, Heroku for Node worker automation and deployment.
 - URL : [https://thejobhunt.web.app/](https://thejobhunt.web.app/)
+![tjh](https://github.com/techie448/techie448.github.io/blob/master/content/featured/The%20Job%20Hunt/tjh.png)
 
 [**Squeeze Now**](https://squeeze.now.sh/) **— Vue/MongoDB Web Application + API**
 
@@ -67,6 +69,7 @@ _Serverless Cloud Functions Project_
   - Node serverless functions for backend services.
   - MongoDB, Monk, Yup used for NoSQL database and schema validations.
 - URL : [https://squeeze.now.sh/](https://squeeze.now.sh/)
+![squeeze](https://github.com/techie448/techie448.github.io/blob/master/content/featured/Squeeze%20Now/squeeze.png)
 
 **ADDITIONAL**
 
