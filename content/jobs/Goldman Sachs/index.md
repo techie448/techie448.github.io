@@ -3,7 +3,7 @@ date: '2019-04-26'
 title: 'Software Engineer [Consultant]'
 company: 'Goldman Sachs'
 location: 'Bengaluru, IN'
-range: 'Sept 2017 – Apr 2019'
+range: '2017 – 2019'
 url: 'https://www.goldmansachs.com/'
 ---
 
